@@ -1,2 +1,2 @@
 # EmptyCoin
-An open-source project for a crypto currency founded fully by community.
+An open-source project for a crypto currency founded fully by community of KSH.
